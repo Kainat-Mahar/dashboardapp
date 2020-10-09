@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300&family=Nunito:ital,wght@1,900&family=Sen:wght@700&display=swap');
+body
+{
+    font-family: 'Sen', sans-serif;
+    background-color: black;
+    color: #fff;
+}
+.widgetWrap
+{
+    background: #3b3b94;
+    height: auto;
+    margin-bottom: 10px;
+}
+.widgetTitle
+{
+    border-bottom: 1px solid #665151;
+    text-align: left;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 600;
+    padding: 10px 10px;
+    color: #b6b6e3;
+}
+.widgetValue .value
+{
+    font-size: 37px;
+    font-weight: 400;
+    text-align: left;
+    padding: 0px 7px;
+    line-height: 100%;
+}
+.description
+{
+    text-align: left;
+    font-size: 12px;
+    padding-left: 13px;
+}
+.widgetValue
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: table;
+    align-items: revert;
+    height: auto;
+    padding-left: 10px;
+}
+.value
+{
+    color: #f3e217;
+}
+text
+{
+    fill:white;
+}
+.TopHeader .row
+{
+    background: #2a2a2a;
+    margin-bottom: 19px;
+    padding: 10px 15px;
+    font-size: 22px;
+    text-align: left;
+    font-weight: bold;
+}
+.Dropdown-root
+{
+    font-size: 15px;
+    width: 142px;
+    float: right;
+}
+.TopHeader
+{
+    padding: 17px;
+    text-align: center;
+    font-size: 35px;
+    color: #fff;
+    font-weight: bold;
+}
